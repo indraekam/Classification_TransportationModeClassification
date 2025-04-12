@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # 🚗 Transportation Mode Prediction using Random Forest
 
 This machine learning project predicts the **mode of transportation** based on structured input data.  
